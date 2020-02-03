@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="WwYO3ZKGp_56A0bc9jiu70QXZ8kubbHcmzvW4VXer9I" />
 # Generative Adversarial Network
 ### Using GAN to generate tabular data in dash app
 https://numeric-generator.herokuapp.com/
